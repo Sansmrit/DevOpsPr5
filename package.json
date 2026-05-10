@@ -1,0 +1,11 @@
+{
+  "name": "jenkins-nodejs-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for Jenkins deployment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Sanket",
+  "license": "ISC"
+}
